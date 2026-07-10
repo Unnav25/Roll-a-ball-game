@@ -1,6 +1,6 @@
 # Roll-a-Ball game
 
-A simple beginner-friendly game developed in Unity using C#. This project includes a custom survival-based gameplay twist with timer countdown.
+A simple beginner-friendly game developed in Unity using C#. This project includes a survival-based gameplay twist with countdown timer.
 
 # Gameplay
 
